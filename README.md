@@ -1,4 +1,5 @@
 Hi there, I'm Ayush Mishra! 👋
+
 🚀 Data Scientist | C/C++ & Python Programmer | Machine Learning Enthusiast
 I'm a passionate and driven professional operating at the intersection of data, algorithms, and high-performance computing. With a strong foundation in classical programming languages and a deep dive into modern machine learning paradigms, I enjoy building intelligent systems that solve complex problems.
 
