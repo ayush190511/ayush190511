@@ -33,9 +33,9 @@ Optimizing ML models for edge devices
 Parallel computing & distributed systems
 
 📬 Let's Connect!
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: https://www.linkedin.com/in/ayush190511/
 
-Email: [Your Email Address]
+Email: ayushmishra642001@gmail.com
 
 Feel free to explore my repositories to see my projects in action! Happy coding! ✨
 
