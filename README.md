@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-- M.Tech in CSE (Data Science) from Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat.<br><br>- B.Tech in CSE from Deenbandhu Chhotu Ram University of Science and Technology (DCRUST), Murthal.
+- M.Tech in CSE (Data Science) from Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat.<br><br>
+- B.Tech in CSE from Deenbandhu Chhotu Ram University of Science and Technology (DCRUST), Murthal.
 
 
 ## 🌐 Socials:
