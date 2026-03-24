@@ -26,7 +26,7 @@ CNN-based computer vision system using **VGG16 transfer learning** with **DVC pi
 
 End-to-end regression system comparing **8 machine learning models**, tracked with **MLflow + DagsHub**, including **SHAP interpretability** and **Streamlit deployment**.
 
-🔗 https://github.com/ayush190511/Student-Math-Score-Prediction
+🔗 https://github.com/ayush190511/DataScience
 
 
 ---
